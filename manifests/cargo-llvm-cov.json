@@ -18,10 +18,64 @@
     }
   },
   "latest": {
-    "version": "0.5.37"
+    "version": "0.6.0"
+  },
+  "0.6": {
+    "version": "0.6.0"
+  },
+  "0.6.0": {
+    "x86_64_linux_musl": {
+      "checksum": "2f07927e63bebd70bd13a72299e1a1293ef93c783996297bcd7133ddb86a4232"
+    },
+    "x86_64_macos": {
+      "checksum": "c1e4dfa1e7b7429fc56a6d477457572067988f9554a54371eeeb232416cb6197"
+    },
+    "x86_64_windows": {
+      "checksum": "321d3e0bd365f61547b78335a71e99f746c2a8f3f8a0d99a70d2b0f55e443b50"
+    },
+    "aarch64_linux_musl": {
+      "checksum": "ec301c6005501939233342e01789271ee796b2582ca1260f7b016f142bad530f"
+    },
+    "aarch64_macos": {
+      "checksum": "b3117e7b000ffa41a0261b93b9f80b93f1f7f30b06f782600e97ca58d42683cf"
+    }
   },
   "0.5": {
-    "version": "0.5.37"
+    "version": "0.5.39"
+  },
+  "0.5.39": {
+    "x86_64_linux_musl": {
+      "checksum": "e2411273e3151383432ec3f7fa1dea89628c9396a4b2077a3cd2ef0adb217a40"
+    },
+    "x86_64_macos": {
+      "checksum": "683c5fffab903cdac56c3baa0d319bbedb8983ec69c5839116caed1ffef176a0"
+    },
+    "x86_64_windows": {
+      "checksum": "2ad67e0a14c1ce7d105127bb1358249b2d578caa2c9c4c70aa4e512eaff4f8a9"
+    },
+    "aarch64_linux_musl": {
+      "checksum": "b996cc9ad2979fb8e616ecb37be0dc27c5ed00df52ca7b8e24a3a9d9cfd7029a"
+    },
+    "aarch64_macos": {
+      "checksum": "22042580bcf6797f92a1e458cd03bc98c107adf9c47b39af2d021309b263ff60"
+    }
+  },
+  "0.5.38": {
+    "x86_64_linux_musl": {
+      "checksum": "f8820fc550b0d9e78865c0245e7a63ab5b5c88a8825d7a9bdd2e908fd4737317"
+    },
+    "x86_64_macos": {
+      "checksum": "1411bff8ac7dc0338f6d687312cf0d8a2b43623fb41692bfb1536e3fe99ea8dc"
+    },
+    "x86_64_windows": {
+      "checksum": "2b504ac7a3c01a6233dedb4ad28e9103c4de207cdf6440fdb1ef7e929cb78216"
+    },
+    "aarch64_linux_musl": {
+      "checksum": "6f359baa623e5d98099ab1978e3d5f06bab0d006735fc262056be87106e37575"
+    },
+    "aarch64_macos": {
+      "checksum": "cf32270e4e9203bfc72a85d514b16ce1f842142cb9adecb2b66e159bee61017f"
+    }
   },
   "0.5.37": {
     "x86_64_linux_musl": {
